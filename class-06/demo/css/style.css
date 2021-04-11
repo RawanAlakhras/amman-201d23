@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* {
+  font-family: Arial, sans-serif;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.5;
+}
+
+header {
+  text-align: center;
+  background: #383e56;
+  margin-bottom: 20px;
+}
+
+header h1 {
+  line-height: 50px;
+  color: #fff;
+}
+
+main {
+  margin: 0 20px;
+}
+
+main > h2 {
+  font-weight: 700;
+}
+
+ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+main article h2 {
+  color: #fb743e;
+  font-weight: 700;
+  text-transform: capitalize;
+}
